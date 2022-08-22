@@ -18,6 +18,7 @@ In a terminal, type __`python main.py`__
 - Gamerooms chat
 - Profile
 - DataBase
+- War Map (does not work)
 
 ### Offline Battle
 - Crediting trophies
